@@ -1,4 +1,4 @@
-# Lost Souls Sanctuary - Generative Art with Clarissa Moore (10/12/2021)
+# EthBuilderes.NYC: Lost Souls Sanctuary - Generative Art with Clarissa Moore
 
 ## Traits
 
