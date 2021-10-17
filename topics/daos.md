@@ -23,6 +23,10 @@ DAO Manifesto examples
 - [HausDAO manifesto](https://github.com/HausDAO/manifesto)
 - [MetaCartel manifesto](https://github.com/metacartel/mission/blob/master/community-first-manifesto.md)
 
+Tooling
+
+-[Organization Legos: The State of DAO Tooling](https://medium.com/1kxnetwork/organization-legos-the-state-of-dao-tooling-866b6879e93e)
+
 Community Token traits
 
 - Tokens hold utility value, not financial. Enable functions in governance, exclusive community access, etc
@@ -32,3 +36,7 @@ Community Token traits
 -[Friends with Benefits (FWB)](https://www.fwb.help/)
 
 -[Moloch](https://www.molochdao.com/)
+
+Community growth
+
+-[How to grow decentralized communities](https://medium.com/1kxnetwork/how-to-grow-decentralized-communities-1bf1044924f8)
