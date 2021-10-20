@@ -1,5 +1,9 @@
 - [Should Cryptocurrencies Be Considered Securities?](https://sinakian.medium.com/should-cryptocurrencies-be-considered-securities-6ca02ab0e8a6)
 
+## Legal consulting
+
+- [Open Law - Dao legal questionnaire](https://lib.openlaw.io/web/default/template/DAO%20Questionnaire)
+
 ## Howey Test
 
 [Investopedia](https://www.investopedia.com/terms/h/howey-test.asp)
