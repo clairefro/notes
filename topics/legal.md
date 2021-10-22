@@ -2,7 +2,7 @@
 
 ## Legal consulting
 
-- [Open Law - Dao legal questionnaire](https://lib.openlaw.io/web/default/template/DAO%20Questionnaire)
+- [Open Law - DAO legal questionnaire](https://lib.openlaw.io/web/default/template/DAO%20Questionnaire)
 
 ## Howey Test
 
