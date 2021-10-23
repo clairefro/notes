@@ -16,3 +16,7 @@ An investment contract is:
 - In a common enterprise
 - With the expectation of profit
 - To be derived from the efforts of others
+
+Opinion
+
+- [Twitter thread on NFT legal issues](https://twitter.com/punk_2070/status/1450324610935820288?s=12)
