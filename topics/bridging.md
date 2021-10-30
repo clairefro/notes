@@ -1,0 +1,2 @@
+- [Umbria](https://bridge.umbria.network/bridge/)
+- [KuCoin](https://www.kucoin.com/) (Trade instead)
