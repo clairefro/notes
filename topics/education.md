@@ -1,2 +1,3 @@
 - [Kernel](https://kernel.community/en/)
 - [BuildSpace](https://buildspace.so/)
+- [a16z - Crypto Startup School](https://a16z.com/crypto-startup-school/)

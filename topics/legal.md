@@ -1,5 +1,11 @@
 - [Should Cryptocurrencies Be Considered Securities?](https://sinakian.medium.com/should-cryptocurrencies-be-considered-securities-6ca02ab0e8a6)
 
+## DAOs
+
+-[DAOs: A Legal Analysis](https://www.jdsupra.com/legalnews/daos-a-legal-analysis-6177928/)
+
+- [The DAO Report (investigation into the legality of DAOs - concludes DAOs are securities)](https://www.sec.gov/litigation/investreport/34-81207.pdf)
+
 ## Legal consulting
 
 - [Open Law - DAO legal questionnaire](https://lib.openlaw.io/web/default/template/DAO%20Questionnaire)
@@ -17,6 +23,6 @@ An investment contract is:
 - With the expectation of profit
 - To be derived from the efforts of others
 
-Opinion
+## SOpinion
 
 - [Twitter thread on NFT legal issues](https://twitter.com/punk_2070/status/1450324610935820288?s=12)
