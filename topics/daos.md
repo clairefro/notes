@@ -40,3 +40,5 @@ Community Token traits
 Community growth
 
 -[How to grow decentralized communities](https://medium.com/1kxnetwork/how-to-grow-decentralized-communities-1bf1044924f8)
+
+-[Bankless DAO: Onboarding example](https://www.notion.so/Getting-Started-Cheat-Sheet-2521514971984ad4b440e00b3a7a6312)
